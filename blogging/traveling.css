@@ -1,0 +1,35 @@
+h1 {
+
+    color: brown;
+    background-color: burlywood;
+    height: 100px;
+    width: 500px;
+    border: 10px solid black;
+    border-radius: 5px;
+
+}
+
+.first {
+
+    background-color: aqua;
+
+    border: 15px solid yellow;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 30px;
+    text-align: center;
+
+
+}
+
+span {
+
+    color: red;
+
+}
+
+h3 {
+
+
+    font-family: 'Times New Roman', Times, serif;
+}
